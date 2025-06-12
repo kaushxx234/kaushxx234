@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Kaush here !</h1>
-<p align="center">🌸 AI Enthusiast | Web3 Learner | C++ Coder | GDG Core | Film Lover 🎬</p>
+<p align="center"> AI Enthusiast | Web3 Learner | C++ Coder | GDG Core | Film Lover 🎬</p>
 
 ---
 
