@@ -21,14 +21,18 @@ I'm an undergraduate Computer Science student and a curious learner diving into 
 </p>
 
 ---
+### GitHub Stats
 
-### 👁️‍🗨️ Visitor Count
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kaushikiparashar&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikiparashar" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushikiparashar&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="GitHub Stats" />
 </p>
 
+### Visitor Count
 
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@kaushikiparashar?theme=rule34" alt="Visitor Count" />
+</p>
 
 ---
 
