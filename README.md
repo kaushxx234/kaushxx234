@@ -36,6 +36,6 @@ I'm an undergraduate Computer Science student and a curious learner diving into 
 
 ```json
 
-  "Languages": ["C++", "Python", "HTML", "CSS", "JavaScript (learning)"],
+  "Languages": ["Java", "Python", "HTML", "CSS", "JavaScript"],
   "Tools": ["Git & GitHub", "IBM Watson", "Firebase", "Figma", "Canva", "VS Code"],
-  "Domains of Interest": ["AI/ML", "Web Development", "Web3", "Blockchain", "IoT (V2X systems)"]
+  
