@@ -25,10 +25,10 @@ I'm an undergraduate Computer Science student and a curious learner diving into 
 
 ### Visitor Count
 
-
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kaushxx234&count_bg=%23000000&title_bg=%23121212&icon=github.svg&icon_color=%23ffffff&title=visits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kaushxx234&count_bg=%23000000&title_bg=%23202020&icon=codeforces.svg&icon_color=%23ffffff&title=visitors&edge_flat=true"/>
 </p>
+
 
 
 ---
