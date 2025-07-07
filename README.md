@@ -24,7 +24,7 @@ I'm an undergraduate Computer Science student and a curious learner diving into 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushikiparashar&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushxx234&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### Visitor Count
