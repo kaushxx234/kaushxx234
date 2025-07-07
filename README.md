@@ -26,9 +26,8 @@ I'm an undergraduate Computer Science student and a curious learner diving into 
 ### Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushxx234&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor badge" />
+  <img src="https://count.getloli.com/get/@kaushxx234?theme=rule34" alt="Visitor Count" />
 </p>
-
 
 
 
