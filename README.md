@@ -1,25 +1,16 @@
-<h1 align="center">Hey 👋, Kaush here !</h1>
-<p align="center"> AI Enthusiast | Web3 Learner | C++ Coder | GDG Core | Film Lover 🎬</p>
+<h1 align="center">Hi, I'm Kaushiki</h1>
 
----
+<p align="center">
+  I'm exploring AI, Web3, and modern tech.<br>
+  Learning to build cool things with code, one step at a time.
+</p>
 
-### 👩‍💻 About Me
+<p align="center">
+  <a href="mailto:kaushikiparashar02@gmail/com">Email</a> • 
+  <a href="https://www.linkedin.com/in/kaushiki-parashar-754661258">LinkedIn</a> • 
+ 
+</p>
 
-- 🎓 3rd Year B.Tech CSE student at Government Women Engineering College, Ajmer  
-- 🌱 Currently learning Data Structures (C++), JavaScript, and Web Development  
-- 💡 Exploring Blockchain (Solana), Web3, and early-stage startup building  
-- 🌏 Passionate about using technology for social good and sustainability  
-- ✨ I love hackathons, innovation challenges, and supporting developer communities
-
----
-
-### 💼 Current Work & Experiences
-
-- 🧠 Built an **AI-based Breast Cancer Detection** model using IBM Watson (IBM Internship Project)  
-- 🧔🏻‍♂️ Designed **Manevo – Beard Growth Pen** for **L’Oréal Brandstorm 2025** Ideathon (Top 91 Nationally)  
-- 🧾 Participated in **TextTech**, a Smart India Hackathon idea for real-time text communication  
-- 🧩 Working on side projects to strengthen frontend and C++ foundations  
-- 🌿 Open to remote internships & global startup roles focused on innovation
 
 ---
 
