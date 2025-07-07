@@ -27,8 +27,9 @@ I'm an undergraduate Computer Science student and a curious learner diving into 
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@kaushikiparashar?theme=rule34" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kaushikiparashar&count_bg=%23000000&title_bg=%23121212&icon=github.svg&icon_color=%23ffffff&title=visits&edge_flat=false"/>
 </p>
+
 
 ---
 
